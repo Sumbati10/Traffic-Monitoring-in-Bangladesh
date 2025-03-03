@@ -47,8 +47,8 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/traffic-analysis
-   cd traffic-analysis
+   git clone https://github.com/Sumbati10/Traffic-Monitoring-in-Bangladesh.git
+   cd Traffic-Monitoring-in-Bangladesh
    ```
 
 2. Install dependencies:
@@ -70,5 +70,5 @@ To set up the project, follow these steps:
 If you'd like to contribute, please fork the repository and submit a pull request with your improvements.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License.https://creativecommons.org/licenses/by-nc-nd/4.0/ owned by @Worldquant University
 
